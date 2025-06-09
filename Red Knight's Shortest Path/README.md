@@ -1,16 +1,16 @@
 n x n хэмжээтэй шатрын хөлөг дээр Улаан Баатар (Red Knight) байрлаж, (start_row, start_col)-ээс (end_row, end_col) хүрэх хамгийн богино замыг олох шаардлагатай. Улаан Баатар нь 6 төрлийн үсрэлт хийх боломжтой:
 
-↖ UL (Up-Left): (-2, -1)
+UL (Up-Left): (-2, -1)
 
-↗ UR (Up-Right): (-2, 1)
+UR (Up-Right): (-2, 1)
 
-→ R (Right): (0, 2)
+R (Right): (0, 2)
 
-↘ LR (Lower-Right): (2, 1)
+LR (Lower-Right): (2, 1)
 
-↓ LL (Lower-Left): (2, -1)
+LL (Lower-Left): (2, -1)
 
-← L (Left): (0, -2)
+L (Left): (0, -2)
 
 Бодолтын үр дүнд дараахыг харуулна:
 
